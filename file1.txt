@@ -2,3 +2,5 @@ first file.
 first change.
 
 second change to check git add -u
+
+3rd change; tests whether this is updated with just: git add .
